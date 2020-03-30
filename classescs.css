@@ -24,3 +24,9 @@
     object-fit: cover;
     object-position: center;
 }
+
+.catalog{
+    text-overflow: initial;
+    overflow-wrap: normal;
+    word-wrap: normal;
+}
