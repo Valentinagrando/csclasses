@@ -1,0 +1,26 @@
+#header{
+    color: aliceblue;
+    background-image: url(./imgs/terminal.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    
+
+}
+
+.concluded{
+    color: rgb(15, 135, 199);
+    width: fit-content;
+}
+
+.ongoing{
+    color: rgb(9, 186, 65);
+    width: fit-content;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 20vh;
+    object-fit: cover;
+    object-position: center;
+}
